@@ -3,7 +3,7 @@
     
     <name>Mountain View</name>
     <description>Mountain Market Viewer App</description>
-    <author email="pmedia.paul@gmail.com@" href="http://mountain.esy.es">AGOTH Webmaster</author>
+    <author email="pmedia.paul@gmail.com@" href="http://mountainmarket.tk">AGOTH Webmaster</author>
 
     <preference name="phonegap-version" value="3.6.3 />
     <feature name="http://api.phonegap.com/1.0/device" />
