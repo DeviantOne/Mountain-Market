@@ -8,7 +8,8 @@
     <preference name="phonegap-version" value="3.6.3 />
     <feature name="http://api.phonegap.com/1.0/device" />
     
-    <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
+    <preference name="orientation"                value="portrait" />       
+    <!-- all: default means both landscape and portrait are enabled -->
     
     <gap:plugin name="org.apache.cordova.device" />
     <gap:plugin name="org.apache.cordova.camera" />
@@ -48,5 +49,6 @@
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
     
-    <access origin="http://www.mountainmarket.tk*" subdomains="true" />
+    
+  <content src="/index.html" />                                                                     <access origin="*" subdomains="true" />
 </widget>
